@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+.list {
+  text-align: center;
+}
+.profiles ul {
+  float: left;
+  width: 25%;
+  border: 5px solid white;
+}
+.profiles img{
+  height:auto;
+  width:50%;
+}
+.profiles li{
+  background-color: orange;
+}
+body{
+  background-color: #E896AF;
+  font-size: 20px;
+}
